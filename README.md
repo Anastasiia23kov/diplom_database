@@ -170,6 +170,9 @@ https://books.ifmo.ru/file/pdf/1955.pdf
 книга о проектировании бд:
 file:///Users/anastasiaolegovna/Downloads/Relational%20Databases%20by%20examples%20(Svyatoslav%20Kulikov)%20-%20RU.pdf
 
+Статья:
+https://web.snauka.ru/issues/2016/08/70638
+
 --------------------------------------------------------------------
 
 примеры дипломов:
